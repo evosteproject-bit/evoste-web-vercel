@@ -17,7 +17,7 @@ export default function Footer() {
           </a>
         </div>
         <p className="text-xs">
-          &copy; {new Date().getFullYear()} EVOSTE - Matrix Sync. All Rights
+          &copy; {new Date().getFullYear()} EVOSTE - Andi. All Rights
           Reserved.
         </p>
       </div>
